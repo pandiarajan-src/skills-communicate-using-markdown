@@ -4,3 +4,5 @@
 #### Hi There - This is h4
 ##### Hi There - This is h5
 ###### Hi There - This is h6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
